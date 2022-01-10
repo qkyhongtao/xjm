@@ -590,7 +590,7 @@
 			"urls": ["http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq_4000p.xs?uuid="]
 		}, {
 			"name": "斗鱼动作1",
-			"urls": ["http://tx2play1.douyucdn.cn/live/85894rmovieChow_4000p.xs?uuid="]
+			"urls": ["http://tx2play1.douyucdn.cn/live/9292503rXc7Q666k_4000p.xs?uuid="]
 		}, {
 			"name": "斗鱼港剧",
 			"urls": ["http://tx2play1.douyucdn.cn/live/85894rmovieChow_4000p.xs?uuid="]
