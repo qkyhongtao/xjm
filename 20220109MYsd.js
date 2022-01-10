@@ -584,13 +584,13 @@
 			"urls": ["http://tx2play1.douyucdn.cn/live/2793084rOv5omCuI_4000p.xs?uuid="]
 		}, {
 			"name": "斗鱼科幻1",
-			"urls": ["http://tx2play1.douyucdn.cn/live/747764r3RP528jh8_4000p.xs?uuid="]
+			"urls": ["http://tx2play1.douyucdn.cn/live/6140589r3d6Mhe5S_4000p.xs?uuid="]
 		}, {
 			"name": "斗鱼动作",
 			"urls": ["http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq_4000p.xs?uuid="]
 		}, {
 			"name": "斗鱼动作1",
-			"urls": ["http://tx2play1.douyucdn.cn/live/252802rnJEvKQL5B_4000p.xs?uuid="]
+			"urls": ["http://tx2play1.douyucdn.cn/live/85894rmovieChow_4000p.xs?uuid="]
 		}, {
 			"name": "斗鱼港剧",
 			"urls": ["http://tx2play1.douyucdn.cn/live/85894rmovieChow_4000p.xs?uuid="]
