@@ -584,7 +584,7 @@
 			"urls": ["http://tx2play1.douyucdn.cn/live/2793084rOv5omCuI_4000p.xs?uuid="]
 		}, {
 			"name": "斗鱼科幻1",
-			"urls": ["http://tx2play1.douyucdn.cn/live/6140589r3d6Mhe5S_4000p.xs?uuid="]
+			"urls": ["http://tx2play1.douyucdn.cn/live/6140589ruiQ3pxff_4000p.xs?uuid="]
 		}, {
 			"name": "斗鱼动作",
 			"urls": ["http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq_4000p.xs?uuid="]
