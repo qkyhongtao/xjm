@@ -594,7 +594,15 @@
 		}, {
 			"name": "斗鱼港剧",
 			"urls": ["http://tx2play1.douyucdn.cn/live/85894rmovieChow_4000p.xs?uuid="]
+		}, {
+			"name": "斗鱼喜剧",
+			"urls": ["http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq_4000p.xs?uuid="]
+		}, {
+			"name": "斗鱼喜剧1",
+			"urls": ["http://tx2play1.douyucdn.cn/live/8986148ruX1Bn8o2_4000p.xs?uuid="]
 		}, 
+
+
 
         {
           "name": "CCTV-1",
