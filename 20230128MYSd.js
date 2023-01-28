@@ -119,10 +119,10 @@
         },
         {
             "key": "人人迷",
-            "name": "人人迷",
+            "name": "AG资源",
             "type": 1,
-            "api": "https://kuu.renrenmi.cc/api.php/provide/vod/?ac=list",
-            "playUrl": "https://jx.renrenmi.cc/?url=",
+            "api": "http://wmcj8.com/inc/sapi.php",
+            "playUrl": "",
             "categories": [
                 "动作片",
                 "喜剧片",
