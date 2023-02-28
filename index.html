@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <div class="wrapper">
+    <div class="search">
+      <input type="text" placeholder="请输入用户名">
+    </div>
+    <div class="user-list">//搜索列表，有js渲染添加
+      <ul>
+      </ul>
+    </div>
+  </div>
+  <script>
+var oul=document.getElementsByTagName("ul")[0];
+var oinput=document.getElementsByTagName("input")[0];
+var text='',sex='a';//要将text和sex写在全局变量里面，这样可以记录上次操作的值为后续的页面渲染作准备；
+var personArr=[
+  {name:'王刚',src:'images/1.png',des:'颈椎不好',sex:'m'},
+  {name:'刘颖',src:'images/2.png',des:'我是谁',sex:'f'},
+  {name:'王秀英',src:'images/3.jpg',des:'我很好看',sex:'f'},
+  {name:'刘金磊',src:'images/4.png',des:'你没有见过陌生人的脸',sex:'m'},
+  {name:'刘飞仙',src:'images/5.jpg',des:'瓜皮刘',sex:'m'}
+];
+//页面渲染
+function randerlist(arr){
+  var str='';
+  arr.forEach(function(elem,index){
+    str+='<li>\
+    <p class="username">'+elem.name+'</p>\
+  </li>'
+  });
+  oul.innerHTML=str;
+}
+randerlist(personArr);
+//获取搜索框内容，并重新渲染
+oinput.oninput=function(){
+  text=this.value;
+  var newArr=filterText(text,personArr);
+  randerlist(newArr);
+}
+//根据文本框的内容进行筛选，并返回筛选后的数组
+function filterText(text,arr){
+  //filter函数，筛选作用，将return true的elem拼成一个数组并返回
+  return arr.filter(function(elem,index){
+    if(elem.name.indexOf(text)!=-1){
+      return true;
+    }else{
+      return false;
+    }
+  });
+}
+</script>
+</body>
+</html>
