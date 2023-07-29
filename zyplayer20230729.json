@@ -1,0 +1,146 @@
+[
+    {
+    "id": 9,
+    "key": "apibdzy",
+    "name": "百度云资源",
+    "api": "https://api.apibdzy.com/api.php/provide/vod/at/xml",
+    "jiexiUrl": "",
+    "group": "影视",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
+ 
+  {
+    "id": 18,
+    "key": "yparse",
+    "name": "步步高资源",
+    "api": "https://api.yparse.com/api/xml",
+    "jiexiUrl": "",
+    "group": "影视",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "id": 23,
+    "key": "tiankongapi",
+    "name": "天空资源",
+    "api": "https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8",
+    "jiexiUrl": "",
+    "group": "影视",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "id": 24,
+    "key": "bajiecaiji",
+    "name": "八戒采集",
+    "api": "http://cj.bajiecaiji.com/inc/bjm3u8.php",
+    "jiexiUrl": "",
+    "group": "影视",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "id": 27,
+    "key": "zzrhgg",
+    "name": "飘花资源",
+    "api": "http://www.zzrhgg.com/api.php/provide/vod/at/xml",
+    "jiexiUrl": "",
+    "group": "影视",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "id": 28,
+    "key": "淫水机资源",
+    "name": "淫水机资源",
+    "api": "https://www.xrbsp.com/api/xml.php",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "id": 29,
+    "key": "lebo",
+    "name": "乐播资源",
+    "api": "https://lbapi9.com/api.php/provide/vod/at/xml",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "id": 30,
+    "key": "bottang",
+    "name": "博天堂",
+    "api": "http://bttcj.com/inc/sapi.php",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": false,
+    "status": "失效",
+    "reverseOrder": false
+  },
+ {
+    "id": 32,
+    "key": "apilyzy",
+    "name": "老鸭",
+    "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": false,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "id": 36,
+    "key": "maozyapi",
+    "name": "色猫资源",
+    "api": "https://api.maozyapi.com/inc/api.php",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "id": 37,
+    "key": "wmcj8",
+    "name": "AG资源",
+    "api": "http://wmcj8.com/inc/sapi.php",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "id": 38,
+    "key": "fanhao",
+    "name": "番号资源",
+    "api": "http://fhapi9.com/api.php/provide/vod/at/xml",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": false,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "id": 41,
+    "key": "lb",
+    "name": "乐播",
+    "api": "https://lbapi9.com/api.php/provide/vod/at/xml",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": false,
+    "status": "可用",
+    "reverseOrder": false
+  }
+  ]
